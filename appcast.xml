@@ -3,10 +3,10 @@
     <channel>
         <title>Parquea - Appcast</title>
         <item>
-            <title>Version 1.0.18</title>
+            <title>Version 1.0.30</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 09 Abril 2022 02:32:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.empasy.parquea" sparkle:version="1.0.18" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.empasy.parquea" sparkle:version="1.0.30" sparkle:os="android" />
         </item>
     </channel>
 </rss>
